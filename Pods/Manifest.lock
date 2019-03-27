@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AsyncSwift (2.0.4)
+  - Dropdowns (2.0.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - KRActivityIndicatorView (3.0.0)
+  - KRProgressHUD (3.4.0):
+    - KRActivityIndicatorView (= 3.0.0)
+  - LGSideMenuController (2.1.1)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftyBeaver (1.6.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AsyncSwift
+  - Dropdowns
+  - IQKeyboardManagerSwift
+  - KRProgressHUD
+  - LGSideMenuController
+  - SwiftKeychainWrapper
+  - SwiftyBeaver
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AsyncSwift
+    - Dropdowns
+    - IQKeyboardManagerSwift
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - LGSideMenuController
+    - SwiftKeychainWrapper
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  Dropdowns: 9dd32d9ac9cc59e56ae093b588d35477abde32d2
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  KRActivityIndicatorView: c414000730a6f4969eeb354bee4f2aebc89c2c2e
+  KRProgressHUD: 79c8703f82179fe34b3602f10b30726f887983fa
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftyBeaver: ccfcdf85a04d429f1633f668650b0ce8020bda3a
+
+PODFILE CHECKSUM: 9503ec4c3d31bbca35557174f78fd8f8f4cca4bd
+
+COCOAPODS: 1.6.0.beta.2
